@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+project2.egg-info/PKG-INFO
+project2.egg-info/SOURCES.txt
+project2.egg-info/dependency_links.txt
+project2.egg-info/top_level.txt
+tests/tests_coref.py
+tests/tests_ner.py
+tests/tests_token.py

@@ -1,19 +1,21 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
 [project]
-name = "cis6930sp25-project2"
-version = "0.1.0"
-description = "Add your description here"
+authors = [{name = "Anshita Rayalla", email = "anshita.rayalla@ufl.edu"}]
+name = "project2"
+description = "Project One from Anshita382 -- Spring 2025"
+version = "1.0"
 readme = "README.md"
-requires-python = ">=3.10"
-dependencies = [
-    "numpy==1.26.0",
-    "pip>=25.0.1",
-    "pymupdf>=1.25.5",
-    "pytest>=8.3.5",
-    "requests>=2.32.3",
-    "setuptools>=78.1.0",
-    "spacy==3.6.1",
-    "spacy-experimental==0.6.4",
-    "thinc[torch]>=8.1.12",
-    "tqdm>=4.67.1",
-    "wheel>=0.45.1",
-]
+dependencies = []
+
+[project.urls]
+Task = "https://ufdatastudio.com/cis6930sp25/project/2"
+repository = "https://github.com/Anshita382/cis6930sp25-project2"
+
+[tool.setuptools]
+py-modules = []
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

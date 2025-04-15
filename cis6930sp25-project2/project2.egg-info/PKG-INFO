@@ -1,3 +1,12 @@
+Metadata-Version: 2.4
+Name: project2
+Version: 1.0
+Summary: Project One from Anshita382 -- Spring 2025
+Author-email: Anshita Rayalla <anshita.rayalla@ufl.edu>
+Project-URL: Task, https://ufdatastudio.com/cis6930sp25/project/2
+Project-URL: repository, https://github.com/Anshita382/cis6930sp25-project2
+Description-Content-Type: text/markdown
+
 CIS6930SP25 -- PROJECT 2
 Name: Anshita Rayalla
 
@@ -16,9 +25,6 @@ bashuv run python:
 
 Features and functions
 main.py
-
-Video link:
-https://www.youtube.com/watch?v=T352t90wg1I
 
 Redacts manually specified names (--names)
 Redacts named entities using spaCy (--entities)

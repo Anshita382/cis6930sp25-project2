@@ -1,0 +1,16 @@
+resources/test1in.pdf	0	Carter	6	Name
+resources/test1in.pdf	0	Bill Carter	11	PERSON
+resources\test1in.pdf	0	Bill Carter	11	PERSON
+resources\test2in.pdf	0	NASA	4	ORG
+resources\test2in.pdf	0	Microsoft	9	ORG
+resources\test2in.pdf	0	Washington DC	13	GPE
+resources\test2in.pdf	0	Elon Musk	9	PERSON
+resources\test3in.pdf	0	Sarah	5	Name
+resources\test3in.pdf	0	Sarah	5	PERSON
+resources\test1in.pdf	0	Carter	6	Name
+resources\test1in.pdf	0	Bill Carter	11	PERSON
+resources\test2in.pdf	0	NASA	4	ORG
+resources\test2in.pdf	0	Microsoft	9	ORG
+resources\test2in.pdf	0	Washington DC	13	GPE
+resources\test2in.pdf	0	Elon Musk	9	PERSON
+resources\test3in.pdf	0	Sarah	5	PERSON
